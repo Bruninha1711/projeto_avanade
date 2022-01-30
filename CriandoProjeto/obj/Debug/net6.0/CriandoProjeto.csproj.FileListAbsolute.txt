@@ -1,0 +1,15 @@
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\obj\Debug\net6.0\CriandoProjeto.csproj.AssemblyReference.cache
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\obj\Debug\net6.0\CriandoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\obj\Debug\net6.0\CriandoProjeto.AssemblyInfoInputs.cache
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\obj\Debug\net6.0\CriandoProjeto.AssemblyInfo.cs
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\obj\Debug\net6.0\CriandoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\bin\Debug\net6.0\CriandoProjeto.exe
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\bin\Debug\net6.0\CriandoProjeto.deps.json
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\bin\Debug\net6.0\CriandoProjeto.runtimeconfig.json
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\bin\Debug\net6.0\CriandoProjeto.dll
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\bin\Debug\net6.0\ref\CriandoProjeto.dll
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\bin\Debug\net6.0\CriandoProjeto.pdb
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\obj\Debug\net6.0\CriandoProjeto.dll
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\obj\Debug\net6.0\ref\CriandoProjeto.dll
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\obj\Debug\net6.0\CriandoProjeto.pdb
+C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\CriandoProjeto\obj\Debug\net6.0\CriandoProjeto.genruntimeconfig.cache

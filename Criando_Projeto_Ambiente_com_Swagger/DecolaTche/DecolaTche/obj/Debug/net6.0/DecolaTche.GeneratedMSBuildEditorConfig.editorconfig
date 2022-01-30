@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DecolaTche
+build_property.RootNamespace = DecolaTche
+build_property.ProjectDir = C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\Criando_Projeto_Ambiente_com_Swagger\DecolaTche\DecolaTche\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MenezesPereira\Documents\Bruna\Bootcamp\Decola Tech  Avanade\projeto_avanade\Criando_Projeto_Ambiente_com_Swagger\DecolaTche\DecolaTche
+build_property._RazorSourceGeneratorDebug = 

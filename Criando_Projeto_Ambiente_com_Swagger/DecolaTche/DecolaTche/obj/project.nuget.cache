@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "//GM4hBu89Rk4eNGE6IB5VkyD8ZRdIs+xz4IO9XB2/V7eeEwRB1YDma8lAJqjC1lRc5UdIMTWLWtPs8aAhN1Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MenezesPereira\\Documents\\Bruna\\Bootcamp\\Decola Tech  Avanade\\projeto_avanade\\Criando_Projeto_Ambiente_com_Swagger\\DecolaTche\\DecolaTche\\DecolaTche.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MenezesPereira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MenezesPereira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MenezesPereira\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\MenezesPereira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\MenezesPereira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\MenezesPereira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

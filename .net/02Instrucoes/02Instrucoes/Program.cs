@@ -1,4 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-  
-Console.WriteLine("Hello, World!");
- 
+using System;
+using Classes.Herança;
+namespace Classes
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");
+    }
+  }
+}
